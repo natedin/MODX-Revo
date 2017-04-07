@@ -4,6 +4,7 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+config.core.php
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -32,7 +33,6 @@ $RECYCLE.BIN/
 ._*
 
 # Files that might appear in the root of a volume
-config.core.php
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
